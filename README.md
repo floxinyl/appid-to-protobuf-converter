@@ -2,6 +2,9 @@
 
 A simple tool to convert Steam AppIDs into protobuf-encoded values. 
 
+![image](https://github.com/user-attachments/assets/fa7bd2a6-4f6e-49ef-a1f3-b5b21cbaedba)
+
+
 Includes a Guide on how to private any game/program on Steam - whether the store page still exists or not. Also, you don't even need to own the games!
 
 ## 🚀 Features
