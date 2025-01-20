@@ -74,7 +74,7 @@ Follow these steps to use Postman and send an API request to private your Steam 
        4. Go to the Network tab and hit **CTRL+R** to reload.
        5. There will be many entries. Look for **v1?access_token=*YOUR_ACCESS_TOKEN***
        6. Click on that entry. On the right side you will see *access_token:* followed by your Access Token in the PAYLOAD tab. Copy that long string.
-          **>DO NOT SHARE THE ACCESS TOKEN, NOT EVEN YOUR MOM! YOU WILL GET HACKED<**
+          **>DO NOT SHARE THE ACCESS TOKEN, NOT EVEN WITH YOUR MOM! YOU WILL GET HACKED<**
 
 3. **Set the Body**:
    - Go to the **Body** tab.
