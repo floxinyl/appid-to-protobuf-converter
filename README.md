@@ -1,6 +1,8 @@
-# AppID to Protobuf Converter & Guide on how-to private ANY GAME/PROGRAM on Steam!
+# AppID to Protobuf Converter
 
-A simple tool to convert Steam AppIDs into protobuf-encoded values.
+A simple tool to convert Steam AppIDs into protobuf-encoded values. 
+
+Includes a Guide on how to private any game/program on Steam - whether the store page still exists or not. Also, you don't even need to own the games!
 
 ## 🚀 Features
 
@@ -32,7 +34,7 @@ _No installation required. Just download and run!_
 
 ---
 
-## 📖 How to Use Postman to Hide Steam Games
+## 📖 How to Use Postman to Private Steam Games
 
 You can manually send an API request to Steam using Postman to hide your games. Here's how:
 
