@@ -8,6 +8,16 @@ This is a simple tool that converts Steam AppIDs into protobuf-encoded values. Y
 - **Game/Program Name Fetch**: Automatically fetches and displays the game/program name for the provided AppID.
 - **Clipboard Copy**: Copies the generated protobuf value to the clipboard and provides a notification.
 
+## Download
+
+You can download the latest version of the AppID to Protobuf Converter here.
+This will not require you to download any of the Requirements to clone and use this repository.
+*Recommended for any user on a Windows PC.*
+
+[Click to Download the ready-to-use .exe](https://github.com/floxinyl/appid-to-protobuf-converter/releases/latest/download/appid_to_protobuf_gui.exe)
+
+*alternatively click on releases on the right.* --->
+
 ## Requirements
 
 - Python 3.x
