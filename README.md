@@ -46,7 +46,7 @@ You can manually send an API request to Steam using Postman to hide your games. 
      ```
      https://api.steampowered.com/IAccountPrivateAppsService/ToggleAppPrivacy/v1?access_token=YOUR_ACCESS_TOKEN
      ```
-   - Replace `YOUR_ACCESS_TOKEN` with your Steam Access Token. Don't know how? -> [How to Get Your Access Token](https://github.com/floxinyl/appid-to-protobuf-converter?tab=readme-ov-file#-how-to-get-your-access-token)
+   - Replace `YOUR_ACCESS_TOKEN` with your Steam Access Token. Don't know how? -> [Get Your Access Token](https://github.com/floxinyl/appid-to-protobuf-converter?tab=readme-ov-file#-how-to-get-your-access-token)
 
 3. **Set the Body**:
    - Go to the **Body** tab and select **form-data**.
