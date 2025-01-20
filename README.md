@@ -2,7 +2,7 @@
 
 This is a simple tool that converts Steam AppIDs into protobuf-encoded values. You need those to manually mark any game as private using API. You will be able to hide **ANY GAME AND PROGRAM** on your *Recent Activity* feed on your Steam Profile, even if the Store Page doesn't exist anymore. In that case hover over the game icon in your **Browser** and write down the APPID from the Link in the *bottom left*.
 
-As of today there is no way official way to mark games/programs that are not on the steam store anymore as private. Not even the Steam Support will help with that. Trust me, I've tried.
+As of today there is no official way to mark games/programs that are not on the steam store anymore as private. Not even the Steam Support will help with that. Trust me, I've tried.
 
 ## Features
 
