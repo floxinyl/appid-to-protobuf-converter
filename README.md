@@ -6,9 +6,8 @@ This is a simple tool that converts Steam AppIDs into protobuf-encoded values. Y
 
 - **Convert Steam AppIDs**: Quickly generate protobuf-encoded values for any valid STEAM AppID.
 - **Game/Program Name Fetch**: Automatically fetches and displays the game/program name for the provided AppID.
-- **Clipboard Copy**: Copies the generated protobuf value to the clipboard and provides a notification.
 
-## Download
+## Quick and Simple - Download + Guide on how to mark any AppID as private:
 
 You can download the latest version of the AppID to Protobuf Converter here.
 This will not require you to download any of the Requirements to clone and use this repository.
@@ -17,6 +16,8 @@ This will not require you to download any of the Requirements to clone and use t
 [Click to Download the ready-to-use .exe](https://github.com/floxinyl/appid-to-protobuf-converter/releases/latest/download/appid_to_protobuf_gui.exe)
 
 *alternatively click on releases on the right.* --->
+
+After downloading follow this: [Using Postman to Hide Steam Games](https://github.com/floxinyl/appid-to-protobuf-converter/tree/main?tab=readme-ov-file#using-postman-to-hide-steam-games)
 
 ## Requirements
 
