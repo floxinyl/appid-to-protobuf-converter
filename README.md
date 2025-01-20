@@ -44,7 +44,7 @@ You can manually send an API request to Steam using Postman to hide your games. 
      ```
      https://api.steampowered.com/IAccountPrivateAppsService/ToggleAppPrivacy/v1?access_token=YOUR_ACCESS_TOKEN
      ```
-   - Replace `YOUR_ACCESS_TOKEN` with your Steam Access Token. Don't know how? -> [How to Get Your Access Token](https://github.com/floxinyl/appid-to-protobuf-converter/edit/main/README.md#-how-to-get-your-access-token)
+   - Replace `YOUR_ACCESS_TOKEN` with your Steam Access Token. Don't know how? -> [How to Get Your Access Token](https://github.com/floxinyl/appid-to-protobuf-converter?tab=readme-ov-file#-how-to-get-your-access-token)
 
 3. **Set the Body**:
    - Go to the **Body** tab and select **form-data**.
@@ -119,5 +119,5 @@ If you want to build the executable yourself:
 
 ## 📨 Contact
 
-For issues or suggestions, visit the [GitHub Issues](https://github.com/floxinyl/appid-to-protobuf-converter/issues) page or write me on [X](x.com/floxinyl)
+For issues or suggestions, visit the [GitHub Issues](https://github.com/floxinyl/appid-to-protobuf-converter/issues) page or write me on [X](https://x.com/floxinyl)
 
