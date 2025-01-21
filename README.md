@@ -1,6 +1,6 @@
 # AppID to Protobuf Converter
 
-A simple tool to convert Steam AppIDs into protobuf-encoded values. 
+A simple tool to convert Steam AppIDs into protobuf-encoded values used to PRIVATE any game/program on Steam via API Request.
 
 ![image](https://github.com/user-attachments/assets/fa7bd2a6-4f6e-49ef-a1f3-b5b21cbaedba)
 
